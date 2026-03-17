@@ -1,1 +1,1 @@
-# first-blog
+# Understanding information
