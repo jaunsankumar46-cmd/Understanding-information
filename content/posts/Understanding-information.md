@@ -1,5 +1,5 @@
 +++
-date = '2026-03-17T17:49:17+05:30'
+date = '2026-03-17'
 draft = false
 title = 'Understanding Information'
 +++

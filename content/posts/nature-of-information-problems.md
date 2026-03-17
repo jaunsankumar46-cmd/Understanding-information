@@ -1,5 +1,5 @@
 +++
-date = '2026-03-17T21:30:23+05:30'
+date = '2026-03-17'
 draft = false
 title = 'My experience on information problems'
 +++
